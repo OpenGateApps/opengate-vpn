@@ -2,7 +2,7 @@
 
 Официальные сборки приложения **OpenGate VPN** для Windows, macOS, Linux и Android.
 
-Скачайте последнюю версию на странице **[Releases](https://github.com/OpenGateTeam/opengate-vpn/releases/latest)**.
+Скачайте последнюю версию на странице **[Releases](https://github.com/OpenGateApps/opengate-vpn/releases/latest)**.
 
 ## Какой файл выбрать
 
