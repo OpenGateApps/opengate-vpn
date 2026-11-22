@@ -10,7 +10,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-android)
 [![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)](#-huawei)
 
-Компьютеры: **0.2.11** · Android: **0.2.7**
+Компьютеры: **0.2.13** · Android: **0.2.7**
 
 </div>
 
@@ -20,10 +20,10 @@
 
 | Ваше устройство | Скачать |
 |---|---|
-| 🪟 Компьютер с Windows 10 или 11 | **[Установщик для Windows](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/OpenGate-Setup-0.2.11-beta-x64.exe)** |
-| 🍎 Mac (любой: Apple M1–M4 или Intel) | **[Установщик для macOS (.pkg)](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/OpenGate-0.2.11-beta-macos.pkg)** |
+| 🪟 Компьютер с Windows 10 или 11 | **[Установщик для Windows](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/OpenGate-Setup-0.2.13-beta-x64.exe)** |
+| 🍎 Mac (любой: Apple M1–M4 или Intel) | **[Установщик для macOS (.pkg)](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/OpenGate-0.2.13-beta-macos.pkg)** |
 | 🪟 Старый компьютер с Windows 7 / 8 | **[Установщик для Windows 7 (тестовый)](https://github.com/OpenGateApps/opengate-vpn/releases/download/win7-v0.2.13-beta/OpenGate-Setup-0.2.13-beta-win7-x64.exe)** |
-| 🐧 Ubuntu, Debian, Mint | **[Пакет .deb](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/opengate-vpn_0.2.11.beta_amd64.deb)** |
+| 🐧 Ubuntu, Debian, Mint | **[Пакет .deb](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/opengate-vpn_0.2.13.beta_amd64.deb)** |
 | 📱 Любой Android-телефон | **[Универсальный APK](https://github.com/OpenGateApps/opengate-vpn/releases/download/android-v0.2.7-beta/OpenGate-0.2.7-beta-android-universal.apk)** |
 | 📱 Huawei / Honor без сервисов Google | **[Универсальный APK для Huawei](https://github.com/OpenGateApps/opengate-vpn/releases/download/android-v0.2.7-beta/OpenGate-0.2.7-beta-android-huawei-universal.apk)** |
 
@@ -35,7 +35,7 @@
 
 | Система | Файл |
 |---|---|
-| Windows 10 / 11, 64 бит | [OpenGate-Setup-0.2.11-beta-x64.exe](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/OpenGate-Setup-0.2.11-beta-x64.exe) |
+| Windows 10 / 11, 64 бит | [OpenGate-Setup-0.2.13-beta-x64.exe](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/OpenGate-Setup-0.2.13-beta-x64.exe) |
 | Windows 7 / 8 / 8.1, 64 бит — **тестовая** | [OpenGate-Setup-0.2.13-beta-win7-x64.exe](https://github.com/OpenGateApps/opengate-vpn/releases/download/win7-v0.2.13-beta/OpenGate-Setup-0.2.13-beta-win7-x64.exe) |
 | Windows 7 / 8 / 8.1, 32 бит — **тестовая** | [OpenGate-Setup-0.2.13-beta-win7-x86.exe](https://github.com/OpenGateApps/opengate-vpn/releases/download/win7-v0.2.13-beta/OpenGate-Setup-0.2.13-beta-win7-x86.exe) |
 
@@ -45,8 +45,8 @@
 
 | Mac | Файл |
 |---|---|
-| Любой Mac — **Universal** (Apple Silicon M1–M4 и Intel) | [OpenGate-0.2.11-beta-macos.pkg](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/OpenGate-0.2.11-beta-macos.pkg) — рекомендуется |
-| То же, образ диска | [OpenGate-0.2.11-beta-macos.dmg](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/OpenGate-0.2.11-beta-macos.dmg) |
+| Любой Mac — **Universal** (Apple Silicon M1–M4 и Intel) | [OpenGate-0.2.13-beta-macos.pkg](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/OpenGate-0.2.13-beta-macos.pkg) — рекомендуется |
+| То же, образ диска | [OpenGate-0.2.13-beta-macos.dmg](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/OpenGate-0.2.13-beta-macos.dmg) |
 
 Один файл подходит и для Apple Silicon, и для Intel — отдельные сборки не нужны.
 Если macOS предупреждает о неизвестном разработчике: правая кнопка мыши по файлу → «Открыть».
@@ -56,9 +56,9 @@
 
 | Дистрибутив | Файл |
 |---|---|
-| Ubuntu, Debian, Mint | [opengate-vpn_0.2.11.beta_amd64.deb](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/opengate-vpn_0.2.11.beta_amd64.deb) |
-| Fedora, RHEL, openSUSE | [opengate-vpn-0.2.11.beta-1.x86_64.rpm](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/opengate-vpn-0.2.11.beta-1.x86_64.rpm) |
-| Arch, Manjaro | [opengate-vpn-0.2.11_beta-1-x86_64.pkg.tar.zst](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.11-beta/opengate-vpn-0.2.11_beta-1-x86_64.pkg.tar.zst) |
+| Ubuntu, Debian, Mint | [opengate-vpn_0.2.13.beta_amd64.deb](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/opengate-vpn_0.2.13.beta_amd64.deb) |
+| Fedora, RHEL, openSUSE | [opengate-vpn-0.2.13.beta-1.x86_64.rpm](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/opengate-vpn-0.2.13.beta-1.x86_64.rpm) |
+| Arch, Manjaro | [opengate-vpn-0.2.13_beta-1-x86_64.pkg.tar.zst](https://github.com/OpenGateApps/opengate-vpn/releases/download/v0.2.13-beta/opengate-vpn-0.2.13_beta-1-x86_64.pkg.tar.zst) |
 
 ## 📱 Android
 
